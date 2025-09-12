@@ -1,1 +1,1 @@
-# rsschool-cv
+https://sheeshda.github.io/rsschool-cv/cv
