@@ -8,6 +8,7 @@
 + GitHub: [Sheeshda](https://github.com/Sheeshda)
 + Telegramm: *@Shidarius*
 + VK: [Bobrina Dasha](https://vk.com/id33829002) 
+
 ![Personal photo](Personal_photo.jpg)
 
 ## About me:
@@ -42,6 +43,3 @@ At the moment, there is a huge motivation to absorb all the knowledge and skills
 + Russian - Native speaker;
 + English - B2 (Upper Intermediate), [EF SET English Test Results](https://cert.efset.org/en/uwqX2S);
 + Spanish - A1 (Beginner)
-
-
-### new for checking commit
